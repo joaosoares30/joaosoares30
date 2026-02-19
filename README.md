@@ -1,16 +1,18 @@
-## Hi there 👋
+# João Soares
+Hello, my name is João Soares. I am a Computer Science student (1st semester), specializing in Internet Systems and Cybersecurity. I have experience in Programming, Software Development, and Cybersecurity. I am building a solid foundation through continuous learning and practice.
 
-<!--
-**joaosoares30/joaosoares30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languagens:
 
-Here are some ideas to get you started:
+Portuguese – Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+English – Basic
+
+Spanish – Intermediate
+
+## Programming languages that will be seen more in the profile
+* Python
+* JavaScript
+* Java
+* C
+* HTML
+* CSS
