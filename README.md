@@ -5,7 +5,7 @@ Hello, my name is João Soares. I am a Computer Science student (1st semester), 
 
 Portuguese – Native
 
-English – Basic
+English – intermediate
 
 Spanish – Intermediate
 
