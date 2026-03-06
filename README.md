@@ -23,4 +23,4 @@ joaomartinspsoares0@gmail.com
 
 joaosoaresmps@gmail.com
 
-https://w.app/rxizzp
+t.me/JMPS_30
