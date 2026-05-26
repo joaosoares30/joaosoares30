@@ -24,6 +24,4 @@ Spanish – Intermediate
 
 joaomartinspsoares0@gmail.com
 
-joaosoaresmps@gmail.com
-
 https://t.me/JMPS_30
