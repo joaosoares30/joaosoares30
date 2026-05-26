@@ -12,9 +12,6 @@ English – Basic
 * JavaScript
 * Java
 * C
-  
-### Markup languages
-
 * HTML
 * CSS
 
