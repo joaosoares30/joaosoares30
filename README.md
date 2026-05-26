@@ -23,7 +23,7 @@ Spanish – Intermediate
 ## Curriculum
 [View PDF](Curriculum/Curriculum.pdf) (English)
   
-[Visualizar PDF](Curriculum/currículo.pdfdf) (Portugês)
+[Visualizar PDF](Curriculum/currículo.pdfdf) (Português)
 
 ## Contact:
 
