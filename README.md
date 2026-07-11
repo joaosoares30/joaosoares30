@@ -1,5 +1,5 @@
 # João Soares
-Hello, my name is João Soares. I am a Computer Science student (1st semester), specializing in Internet Systems and Cybersecurity. I have experience in Programming, Software Development, and Cybersecurity. I am building a solid foundation through continuous learning and practice.
+Hello, my name is João Soares. I am a Computer Science student (2st semester), specializing in Internet Systems and Cybersecurity. I have experience in Programming, Software Development, and Cybersecurity. I am building a solid foundation through continuous learning and practice.
 
 ## Languagens:
 
