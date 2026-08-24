@@ -11,7 +11,6 @@ English – Basic
 * Python
 * JavaScript
 * Java
-* C
 * HTML
 * CSS
 
