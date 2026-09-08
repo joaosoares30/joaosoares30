@@ -11,8 +11,6 @@ English – Basic
 * Python
 * JavaScript
 * Java
-* HTML
-* CSS
 
 ## Curriculum
 [View PDF](Curriculum/Curriculum.pdf) (English)
