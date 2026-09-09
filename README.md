@@ -15,7 +15,7 @@ English – Basic
 ## Curriculum
 [View PDF](Curriculum/Curriculum.pdf) (English)
   
-[Visualizar PDF](Curriculum/currículo.pdfdf) (Português)
+[Visualizar PDF](Curriculum/currículo.pdf) (Português)
 
 ## Contact:
 
