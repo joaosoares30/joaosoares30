@@ -1,24 +1,36 @@
 # João Soares
-Hello, my name is João Soares. I am a Computer Science student (2st semester), specializing in Internet Systems and Cybersecurity. I have experience in Programming, Software Development, and Cybersecurity. I am building a solid foundation through continuous learning and practice.
 
-## Languagens:
+Hi there, I'm João! 👋  
+Computer Science undergraduate and Cybersecurity Competitor at SENAI, currently training for WorldSkills.
 
-Portuguese – Native
+My work focuses on bridging software development with systems security, combining hands-on offensive & defensive security operations (Red & Blue Team), Linux environments, and core development in Python, Java, and JavaScript.
 
-English – Basic
+---
 
-## Programming languages that will be seen more in the profile
-* Python
-* JavaScript
-* Java
+### 🛠️ Tech Stack & Focus Areas
 
-## Curriculum
-[View PDF](Curriculum/Curriculum.pdf) (English)
-  
-[Visualizar PDF](Curriculum/currículo.pdf) (Português)
+- **Core & Scripting:** Python, Java, JavaScript
+- **Security & Systems:** Red & Blue Team Fundamentals, System Hardening, Network Analysis, Linux & Windows Administration
+- **Web & Front-end:** HTML5, CSS3, Modern Web Standards
 
-## Contact:
+---
 
-joaomartinspsoares0@gmail.com
+### 🌐 Languages
 
-https://t.me/JMPS_30
+- **Portuguese:** Native
+- **English:** Working proficiency / Basic
+
+---
+
+### 📄 Resume / Curriculum
+
+- 🇺🇸 [View Resume (English)](Curriculum/Curriculum.pdf)
+- 🇧🇷 [Visualizar Currículo (Português)](Curriculum/currículo.pdf)
+
+---
+
+### 📬 Connect with me
+
+- **LinkedIn:** [João Soares](https://www.linkedin.com/in/jo%C3%A3o-mp-soares)
+- **Email:** [joaomartinspsoares0@gmail.com](mailto:joaomartinspsoares0@gmail.com)
+- **Telegram:** [@JMPS_30](https://t.me/JMPS_30)
