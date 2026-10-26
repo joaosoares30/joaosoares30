@@ -5,6 +5,9 @@ Computer Science undergraduate and Cybersecurity Competitor at SENAI, currently 
 
 My work focuses on bridging software development with systems security, combining hands-on offensive & defensive security operations (Red & Blue Team), Linux environments, and core development in Python, Java, and JavaScript.
 
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-CNPq-004a80?style=flat-square)](http://lattes.cnpq.br/0361583686797672)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-mp-soares)
+
 ---
 
 ### 🛠️ Tech Stack & Focus Areas
@@ -19,13 +22,13 @@ My work focuses on bridging software development with systems security, combinin
 
 - **Portuguese:** Native
 - **English:** Working proficiency / Basic
+- **Spanish:** Elementary
 
 ---
 
-### 📄 Resume / Curriculum
+### 📄 Academic Background & Curriculum
 
-- 🇺🇸 [View Resume (English)](Curriculum/Curriculum.pdf)
-- 🇧🇷 [Visualizar Currículo (Português)](Curriculum/currículo.pdf)
+- 🎓 **Currículo Lattes (CNPq):** [lattes.cnpq.br/0361583686797672](http://lattes.cnpq.br/0361583686797672)
 
 ---
 
